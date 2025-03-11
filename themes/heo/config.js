@@ -16,9 +16,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '知识分享就是',
-  HEO_HERO_TITLE_2: '用一点微光',
-  HEO_HERO_TITLE_3: '吸引一点微光',
+  HEO_HERO_TITLE_1: '用一点微光',
+  HEO_HERO_TITLE_2: '吸引一点微光',
+  HEO_HERO_TITLE_3: '',
+  HEO_HERO_TITLE_4: '雄关漫道真如铁',
+  HEO_HERO_TITLE_5: '而今迈步从头越',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
