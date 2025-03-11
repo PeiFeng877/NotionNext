@@ -19,8 +19,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '用一点微光',
   HEO_HERO_TITLE_2: '吸引一点微光',
   HEO_HERO_TITLE_3: '',
-  HEO_HERO_TITLE_4: '雄关漫道真如铁',
-  HEO_HERO_TITLE_5: '而今迈步从头越',
+  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_5: '雄关漫道真如铁，而今迈步从头越',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
